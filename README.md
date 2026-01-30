@@ -41,3 +41,30 @@ To design and build a secure, scalable banking system that demonstrates:
 ---
 
 ## 📂 Project Structure
+banking-transaction-management-system/
+├── frontend/
+├── backend/
+├── docs/
+└── README.md
+
+
+---
+
+## 🧠 Learning Objectives
+- Understand layered backend architecture
+- Implement secure authentication
+- Handle atomic transactions
+- Design relational database schemas
+- Build resume-ready real-world projects
+
+---
+
+## 🚧 Project Status
+🟡 In Progress (Learning in Public)
+
+---
+
+## 📌 Author
+**Dileep**  
+Aspiring Software Development Engineer (SDE-1)
+
