@@ -1,1 +1,19 @@
+USER FLOW
+---------
+User → Register/Login → JWT Token → Dashboard
+
+TRANSACTION FLOW
+----------------
+Validate Token
+→ Check Account Status
+→ Perform Transaction
+→ Update Balance
+→ Save Transaction History
+
+TRANSFER FLOW (ATOMIC)
+----------------------
+Begin Transaction
+→ Debit Sender
+→ Credit Receiver
+→ Commit / Rollback
 
